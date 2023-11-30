@@ -1,0 +1,16 @@
+export const Strings = {
+  signIn: 'Sign In',
+  logout: 'Logout',
+  register: 'Register',
+  registerHere: 'Register here',
+  createAccount: 'Create Account',
+  forgotPassword: 'Forgot Password?',
+  noAccount: `Don't have account?`,
+  alreadyAccount: `Already have account?`,
+  loginFailed: 'Login Failed, Please try again!',
+  createAccountFail: 'Email is already registered.',
+  loginMethodNotAvailable: 'Login method not available.',
+  authencationRequired: 'Authentication Required',
+  scanFingerprint: 'Scan your fingerprint.',
+  pleaseTryAgain: 'Please try again by clicking below button.',
+};
