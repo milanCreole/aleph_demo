@@ -1,0 +1,8 @@
+{
+    "name": "react-redux-template",
+    "version": "0.0.1",
+    "description": "React Native Simple Redux with Navigation Template",
+    "repository": "https://github.com/roycechua23/react-native-template-simpleredux-boilerplate1",
+    "author": "Milan Creole <milan.jadav@creolestudios.com>",
+    "license": "MIT"
+  }
